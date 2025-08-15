@@ -47,7 +47,7 @@ It supports <b>real-time messaging</b>, <b>secure authentication</b>, and <b>onl
 <img src="assets/screenshots/chat-window.png" alt="Chat Window" width="700"/>
 
 ### 👥  Users
-<img src="assets/screenshots/online-users.png" alt="Online Users" width="700"/>
+![image alt](https://github.com/DulithW/Dulingo-Chat/blob/ff1d4b3faedb3446fb3136add3b14b7232f3b96a/Screenshot%202025-08-15%20165720.png)
 
 ---
 
