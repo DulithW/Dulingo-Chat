@@ -38,19 +38,31 @@ It supports <b>real-time messaging</b>, <b>secure authentication</b>, and <b>onl
 
 ---
 
-## 📷 Screenshots
+
 
 ### 🏠 Login Page
+*The entry point of the app where users can **log in with their credentials** to access real-time chat features.  
+
 ![image alt](https://github.com/DulithW/Dulingo-Chat/blob/195fe28839d9c27838e3f7de7f0d3e3956dded9e/Screenshot%202025-08-15%20165430.png)
 
-### 💬 Chat Window
-![image alt](https://github.com/DulithW/Dulingo-Chat/blob/ff1d4b3faedb3446fb3136add3b14b7232f3b96a/Screenshot%202025-08-15%20165720.png)
-
-### 👥  Users
-
-
-###  User Profile Page
-![image alt](https://github.com/DulithW/Dulingo-Chat/blob/349a7a71fe627bd3291bdc4fd103f897cfc4a40f/Screenshot%202025-08-15%20165702.png)
 ---
 
+### 💬 Chat Window
+*The **main conversation interface** showing real-time messages between users. Displays timestamps, sender details, and a responsive layout for desktop views.  
+
+![image alt](https://github.com/DulithW/Dulingo-Chat/blob/ff1d4b3faedb3446fb3136add3b14b7232f3b96a/Screenshot%202025-08-15%20165720.png)
+
+---
+
+### ⚙️ Settings Page
+*A user-friendly **settings panel** where users can update their preferences, adjust privacy options, and manage their account details.  
+
+![image alt](https://github.com/DulithW/Dulingo-Chat/blob/caae5cc00242d4a732ead59c3883ce31534416e6/Screenshot%202025-08-15%20165456.png)
+
+---
+
+### 👤 User Profile Page
+*A **personal profile view** showing the user’s avatar, basic details, and status information. Allows easy access to profile editing and account customization.  
+
+![image alt](https://github.com/DulithW/Dulingo-Chat/blob/349a7a71fe627bd3291bdc4fd103f897cfc4a40f/Screenshot%202025-08-15%20165702.png)
 
